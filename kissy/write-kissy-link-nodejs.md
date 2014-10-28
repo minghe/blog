@@ -8,7 +8,6 @@ Kissy的模块代码需要Kissy.add()的包裹，比如：
         requires: ['node']
     });
     
-
 也可以接近CMD的写法：
 
     KISSY.add(function (S, require) {
