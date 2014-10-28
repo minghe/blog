@@ -1,7 +1,5 @@
 # 像写NodeJs一样写KISSY代码
 
-|| 分类：javascript || 专题：kissy ||  
-
 Kissy的模块代码需要Kissy.add()的包裹，比如：
 
     KISSY.add(function (S, Node) {
