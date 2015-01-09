@@ -1,0 +1,13 @@
+{
+    "name": "明河的博客",
+    "version": "0.0.1",
+    "description": "明河的博客",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/minghe/blog.git"
+    },
+    "author": "minghe36@126.com",
+    "dependencies": {
+        "gitbook-plugin-autocover": "0.0.5"
+    }
+}

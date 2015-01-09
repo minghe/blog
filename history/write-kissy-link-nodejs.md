@@ -1,4 +1,6 @@
 # 像写NodeJs一样写KISSY代码
+======
+
 
 Kissy的模块代码需要Kissy.add()的包裹，比如：
 
